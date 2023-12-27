@@ -25,7 +25,7 @@ createApp({
             id: 3,
             title: "My Personal Portfolio website",
             desc:
-            "A personal portfolio website using Vue.js and Tailwind CSS.",
+            "A personal portfolio website using HTML, CSS, JS and BOOTSTRAP",
             photo:
             "/images/projects/project3.png"
         }
