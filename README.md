@@ -11,9 +11,12 @@ const introduction = {
 };
 
 const introduceMyself = ({ name, profession, location, passions, skills, github, quote }) => {
-  console.log(`Hi there, I'm ${name}, a ${profession} from ${location}. My passion lies in ${passions[0]} and ${passions[1]}, and I'm actively developing my skills in ${skills.join(", ")}. You can find some of my projects on my Github profile at ${github}. 
+  console.log(`Hi there, I'm ${name}, a ${profession} from ${location}. My passion lies in
+${passions[0]} and ${passions[1]}, and I'm actively developing my skills in ${skills.join(", ")}.
+ You can find some of my projects on my Github profile at ${github}. 
 
-One of my favorite quotes is "${quote}". It reminds me that even when faced with challenges, recalling the purpose behind my journey keeps me going. Let's keep learning and building together!`);
+One of my favorite quotes is "${quote}". It reminds me that even when faced with challenges,
+ recalling the purpose behind my journey keeps me going. Let's keep learning and building together!`);
 };
 
 introduceMyself(introduction);
