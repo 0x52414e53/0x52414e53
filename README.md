@@ -24,7 +24,7 @@ introduceMyself(introduction);
 ```
 
 <h3 align="left">Connect with me:</h3>
-## 🌐 Social Media's:
+## 🌐 Social Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ranneytech) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https.ransss.me) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IamRanneY) 
 <p align="left">
 </p>
