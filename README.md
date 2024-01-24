@@ -23,10 +23,9 @@ introduceMyself(introduction);
 
 ```
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
+## 🌐 Social Media's:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ranneytech) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https.ransss.me) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IamRanneY) 
 <p align="left">
 </p>
 
@@ -38,11 +37,6 @@ introduceMyself(introduction);
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en" alt="0x52414e53" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x52414e53&" alt="0x52414e53" /></p>
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ranneytech) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https.ransss.me) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IamRanneY) 
 
 
 ### Programming Languages
