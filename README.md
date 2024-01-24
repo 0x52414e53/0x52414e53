@@ -18,7 +18,7 @@ One of my favorite quotes is "${quote}". It reminds me that even when faced with
 
 introduceMyself(introduction);
 
-
+```
 
 
 ## 🌐 Socials:
