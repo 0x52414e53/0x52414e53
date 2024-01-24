@@ -46,9 +46,17 @@ introduceMyself(introduction);
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ranneytech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ranneytech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranneytech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x52414e53&theme=prussian" width="100%" height="auto" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x52414e53&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x52414e53&theme=prussian" width="48%" height="auto" style="display: inline;" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x52414e53&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x52414e53&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
