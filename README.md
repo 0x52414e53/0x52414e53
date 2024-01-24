@@ -45,14 +45,13 @@ introduceMyself(introduction);
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x52414e53&show_icons=true&locale=en&layout=compact" alt="0x52414e53" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en" alt="0x52414e53" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x52414e53&" alt="0x52414e53" /></p>
-  
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x52414e53&theme=prussian" width="100%" height="auto" />
 </div>
 <div align="center">
