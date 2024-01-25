@@ -1,25 +1,52 @@
 
-```JavaScript
-const introduction = {
-  name: "Rany Boy Templado",
-  profession: "Student, Self-taught Developer",
-  location: "Pangasinan, Philippines",
-  passions: ["Desktop & Web Development", "Learning Tech Related Skills"],
-  skills: ["HTML", "CSS", "JavaScript", "Java", "MySQL", "VB.NET"],
-  github: "https://github.com/0x52414e53",
-  quote: "When thoughts of quitting arise, recall the purpose that ignited your journey."
-};
+```java
+public class introduction {
 
-const introduceMyself = ({ name, profession, location, passions, skills, github, quote }) => {
-  console.log(`Hi there, I'm ${name}, a ${profession} from ${location}. My passion lies in
-${passions[0]} and ${passions[1]}, and I'm actively developing my skills in ${skills.join(", ")}.
- You can find some of my projects on my Github profile at ${github}. 
+    public static void main(String[] args) {
+        ProfileDescription description = new ProfileDescription(
+                "Ranney Templado",
+                "BSIT Student, Aspiring Software Engineer",
+                "Philippines",
+                new String[]{"Java Development", "Web Developer", "Algorithm Design"},
+                new String[]{"Java", "HTML", "CSS", "JavaScript", "MySQL"},
+                "https://github.com/your-github-username",
+                "Embrace challenges, for they shape your journey."
+        );
 
-One of my favorite quotes is "${quote}". It reminds me that even when faced with challenges,
- recalling the purpose behind my journey keeps me going. Let's keep learning and building together!`);
-};
+        // Introduce yourself
+        introduceYourself(description);
+    }
 
-introduceMyself(introduction);
+    static class ProfileDescription {
+        String name;
+        String profession;
+        String location;
+        String[] passions;
+        String[] skills;
+        String github;
+        String quote;
+
+        public ProfileDescription(String name, String profession, String location, String[] passions, String[] skills, String github, String quote) {
+            this.name = name;
+            this.profession = profession;
+            this.location = location;
+            this.passions = passions;
+            this.skills = skills;
+            this.github = github;
+            this.quote = quote;
+        }
+    }
+
+    static void introduceYourself(ProfileDescription profile) {
+        System.out.println("Hi there, I'm " + profile.name + ", a " + profile.profession + " from " +
+                profile.location + ". My passion lies in " + profile.passions[0] + " and " +
+                profile.passions[1] + ", and I'm actively developing my skills in " +
+                String.join(", ", profile.skills) + ". You can find some of my projects on my Github profile at " +
+                profile.github + ".\n\nOne of my favorite quotes is \"" + profile.quote + "\". It reminds me that " +
+                "even when faced with challenges, recalling the purpose behind my journey keeps me going. " +
+                "Let's keep learning and building together!");
+    }
+}
 
 ```
 
