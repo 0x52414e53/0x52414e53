@@ -55,12 +55,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x52414e53&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
 </div>
 
-<div align="left">
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x52414e53&" alt="0x52414e53" 
      width="48%" height="auto" style="display: inline;" />
-</div>
-
-<div align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en" alt="0x52414e53"
      width="48%" height="auto" style="display: inline;" />
 </div>
