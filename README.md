@@ -1,3 +1,6 @@
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/0x52414e53) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_its.ransss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rany-boy-templado-a14808242/) 
+
 <div align="center">
      <img src="./images/background.jpeg" alt="Gopher!", style="width: 90%">
 </div>
@@ -63,11 +66,13 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://randommeme-five.vercel.app/" width="40%" height="auto" />
 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ranney20) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=0x52414e53&icon=0&color=0)](https://visitcount.itsvg.in)
-
