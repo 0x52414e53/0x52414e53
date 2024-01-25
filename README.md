@@ -67,8 +67,8 @@
 
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="40%" height="auto" style="display: inline;" />
-
-<img src="https://randommeme-five.vercel.app/" width="40%" height="auto" style="display: inline;" />
+    <img src="https://randommeme-five.vercel.app/" width="40%" height="auto" style="display: inline;" />
 </div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=0x52414e53&icon=0&color=0)](https://visitcount.itsvg.in)
