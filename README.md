@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="./images/background.jpeg" alt="Gopher!", style="width: 98%">
+     <img src="./images/background.jpeg" alt="Gopher!", style="width: 90%">
 </div>
 
 ```java
