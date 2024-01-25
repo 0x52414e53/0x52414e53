@@ -60,7 +60,10 @@
      width="48%" height="auto" style="display: inline;" />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en" alt="0x52414e53" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en" alt="0x52414e53"
+     width="48%" height="auto" style="display: inline;" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ranneytech&limit=5&theme=dark&combine_all_yearly_contributions=true)
