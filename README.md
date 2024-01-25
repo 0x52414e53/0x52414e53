@@ -56,9 +56,9 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x52414e53&" alt="0x52414e53" 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x52414e53&" 
      width="48%" height="10%" style="display: inline;" />
-<img src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en" alt="0x52414e53"
+<img src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en"
      width="48%" height="10%" style="display: inline;" />
 </div>
 
