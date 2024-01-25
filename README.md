@@ -40,22 +40,27 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x52414e53&show_icons=true&locale=en&layout=compact" alt="0x52414e53" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en" alt="0x52414e53" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x52414e53&" alt="0x52414e53" /></p>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x52414e53&theme=prussian" width="100%" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x52414e53&theme=prussian" width="90%" height="auto" />
 </div>
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x52414e53&theme=prussian" width="48%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x52414e53&theme=prussian" width="48%" height="auto" style="display: inline;" />
 </div>
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x52414e53&theme=prussian" width="48%" height="auto" style="display: inline;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x52414e53&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
 </div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0x52414e53&" alt="0x52414e53" 
+     width="48%" height="auto" style="display: inline;" />
+</div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x52414e53&show_icons=true&locale=en" alt="0x52414e53" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ranneytech&limit=5&theme=dark&combine_all_yearly_contributions=true)
