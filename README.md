@@ -66,9 +66,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=0x52414e53&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" height="40px" style="display: inline;" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="48%" height="40%" style="display: inline;" />
 
-<img src="https://randommeme-five.vercel.app/" width="48%" height="40px" style="display: inline;" />
+<img src="https://randommeme-five.vercel.app/" width="48%" height="40%" style="display: inline;" />
 </div>
 ---
 [![](https://visitcount.itsvg.in/api?id=0x52414e53&icon=0&color=0)](https://visitcount.itsvg.in)
