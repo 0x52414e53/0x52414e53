@@ -1,53 +1,37 @@
+<div align="center">
+    <img width="100%" src="https://cdn.jsdelivr.net/gh/0x52414e53/0x52414e53/header_.png" />
+</div>
 
 ```java
-public class introduction {
+    public class Introduction {
+
+    String name;
+    String role;
+    String passion;
+    String[] languageSpoken;
+    String location;
+    String[] languages;
+    String[] tools;
+
+    public Introduction() {
+        this.name = "Ranney Templado";
+        this.role = "Student";
+        this.passion = "Aspiring Software Engineer";
+        this.languageSpoken = new String[]{"English", "Filipino", "Cebuano"};
+        this.location = "Philippines";
+        this.languages = new String[]{"C++", "Java", "HTML", "CSS", "JavaScript", "VB.Net", "MySQL", "MariaDB"};
+        this.tools = new String[]{"Bootstrap", "Git", "Figma"};
+    }
+
+    public void quote() {
+        System.out.println("When thoughts of quitting arise, recall the purpose that ignited your journey.");
+    }
 
     public static void main(String[] args) {
-        ProfileDescription description = new ProfileDescription(
-                "Ranney Templado",
-                "BSIT Student, Aspiring Software Engineer",
-                "Philippines",
-                new String[]{"Java Development", "Web Developer", "Algorithm Design"},
-                new String[]{"Java", "HTML", "CSS", "JavaScript", "MySQL"},
-                "https://github.com/your-github-username",
-                "Embrace challenges, for they shape your journey."
-        );
-
-        // Introduce yourself
-        introduceYourself(description);
-    }
-
-    static class ProfileDescription {
-        String name;
-        String profession;
-        String location;
-        String[] passions;
-        String[] skills;
-        String github;
-        String quote;
-
-        public ProfileDescription(String name, String profession, String location, String[] passions, String[] skills, String github, String quote) {
-            this.name = name;
-            this.profession = profession;
-            this.location = location;
-            this.passions = passions;
-            this.skills = skills;
-            this.github = github;
-            this.quote = quote;
-        }
-    }
-
-    static void introduceYourself(ProfileDescription profile) {
-        System.out.println("Hi there, I'm " + profile.name + ", a " + profile.profession + " from " +
-                profile.location + ". My passion lies in " + profile.passions[0] + " and " +
-                profile.passions[1] + ", and I'm actively developing my skills in " +
-                String.join(", ", profile.skills) + ". You can find some of my projects on my Github profile at " +
-                profile.github + ".\n\nOne of my favorite quotes is \"" + profile.quote + "\". It reminds me that " +
-                "even when faced with challenges, recalling the purpose behind my journey keeps me going. " +
-                "Let's keep learning and building together!");
+        Introduction me = new Introduction();
+        me.quote();
     }
 }
-
 ```
 
 <h3 align="left">Languages and Tools Already Used:</h3>
