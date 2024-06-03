@@ -20,7 +20,7 @@
     public Introduction() {
         this.name = "Ranney Templado";
         this.role = "Student";
-        this.passion = "Aspiring S___";
+        this.passion = "Aspiring Software Developer";
         this.languageSpoken = new String[]{"English", "Filipino", "Cebuano"};
         this.location = "Philippines";
         this.languages = new String[]{"C++", "Java", "HTML", "CSS", "JavaScript", "VB.Net", "MySQL", "MariaDB"};
