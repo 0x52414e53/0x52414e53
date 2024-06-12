@@ -23,7 +23,7 @@
         this.passion = "Aspiring Software Developer";
         this.languageSpoken = new String[]{"English", "Filipino", "Cebuano"};
         this.location = "Philippines";
-        this.languages = new String[]{"C++", "Java", "HTML", "CSS", "JavaScript", "VB.Net", "MySQL", "MariaDB"};
+        this.languages = new String[]{"C++", "Java", "HTML", "CSS", "JavaScript", "VB.Net", "MySQL", "MariaDB","React"};
         this.tools = new String[]{"Bootstrap", "Git", "Figma"};
     }
 
