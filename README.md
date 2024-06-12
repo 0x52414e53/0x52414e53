@@ -16,6 +16,7 @@
     String location;
     String[] languages;
     String[] tools;
+    String community;
 
     public Introduction() {
         this.name = "Ranney Templado";
@@ -25,6 +26,7 @@
         this.location = "Philippines";
         this.languages = new String[]{"C++", "Java", "HTML", "CSS", "JavaScript", "VB.Net", "MySQL", "MariaDB","React"};
         this.tools = new String[]{"Bootstrap", "Git", "Figma"};
+        this.community = "Community Member at Filipino Web Development Peers (FWDP)";
     }
 
     public void quote() {
